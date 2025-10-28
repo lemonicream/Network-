@@ -1,6 +1,6 @@
 # Tạo hệ thống mạng lưới nhà khoa học
 
-Module xây dựng hệ thống mạng lưới nhà khoa học.
+Module xây dựng hệ thống mạng lưới nhà khoa học quốc tế.
 
 ## Mô tả
 
