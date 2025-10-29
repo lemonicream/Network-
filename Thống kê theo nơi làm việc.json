@@ -1,0 +1,52 @@
+[
+  {
+    "community": 108,
+    "workplace": "Đại học Cambridge",
+    "freq": 23
+  },
+  {
+    "community": 19,
+    "workplace": "Đại học Harvard",
+    "freq": 19
+  },
+  {
+    "community": 19,
+    "workplace": "Đại học Chicago",
+    "freq": 18
+  },
+  {
+    "community": 19,
+    "workplace": "Đại học Stanford",
+    "freq": 18
+  },
+  {
+    "community": 19,
+    "workplace": "Đại học Columbia",
+    "freq": 17
+  },
+  {
+    "community": 19,
+    "workplace": "Đại học Princeton",
+    "freq": 13
+  },
+  {
+    "community": 19,
+    "workplace": "Viện Công nghệ Massachusetts",
+    "freq": 13
+  },
+  {
+    "community": 19,
+    "workplace": "Đại học California tại Berkeley",
+    "freq": 11
+  },
+  {
+    "community": 333,
+    "workplace": "Đại học Göttingen",
+    "freq": 10
+  },
+  {
+    "community": 108,
+    "workplace": "Đại học Oxford",
+    "freq": 8
+  }
+]
