@@ -1,0 +1,52 @@
+[
+  {
+    "community": 19,
+    "country": "Hoa Kỳ",
+    "freq": 121
+  },
+  {
+    "community": 333,
+    "country": "Đức",
+    "freq": 68
+  },
+  {
+    "community": 205,
+    "country": "Pháp",
+    "freq": 30
+  },
+  {
+    "community": 108,
+    "country": "Anh",
+    "freq": 26
+  },
+  {
+    "community": 51,
+    "country": "Thụy Điển",
+    "freq": 19
+  },
+  {
+    "community": 775,
+    "country": "Nhật Bản",
+    "freq": 12
+  },
+  {
+    "community": 368,
+    "country": "Canada",
+    "freq": 11
+  },
+  {
+    "community": 358,
+    "country": "Thụy Sĩ",
+    "freq": 10
+  },
+  {
+    "community": 965,
+    "country": "Hoa Kỳ",
+    "freq": 10
+  },
+  {
+    "community": 854,
+    "country": "Hà Lan",
+    "freq": 9
+  }
+]

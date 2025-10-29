@@ -1,0 +1,52 @@
+[
+  {
+    "community": 19,
+    "award": "Giải Nobel Vật lý",
+    "freq": 38
+  },
+  {
+    "community": 19,
+    "award": "Giải Nobel Kinh tế",
+    "freq": 28
+  },
+  {
+    "community": 333,
+    "award": "Giải Nobel Vật lý",
+    "freq": 24
+  },
+  {
+    "community": 19,
+    "award": "Huân chương Khoa học Quốc gia",
+    "freq": 21
+  },
+  {
+    "community": 19,
+    "award": "Danh sách người đoạt giải Nobel Sinh lý học hoặc Y học",
+    "freq": 21
+  },
+  {
+    "community": 19,
+    "award": "Danh sách người đoạt giải Nobel Kinh tế",
+    "freq": 20
+  },
+  {
+    "community": 19,
+    "award": "Danh sách người đoạt giải Nobel Hóa học",
+    "freq": 19
+  },
+  {
+    "community": 108,
+    "award": "Giải Nobel Vật lý",
+    "freq": 18
+  },
+  {
+    "community": 358,
+    "award": "Giải Nobel Vật lý",
+    "freq": 18
+  },
+  {
+    "community": 333,
+    "award": "Danh sách người đoạt giải Nobel Hóa học",
+    "freq": 18
+  }
+]
