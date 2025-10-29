@@ -1,0 +1,107 @@
+[
+  {
+    "Scientist": "Adolf von Baeyer",
+    "ReachabilityScore": 0.009001500250041674,
+    "DirectConnections": 20,
+    "IndirectConnections": 656,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Werner Heisenberg",
+    "ReachabilityScore": 0.0082249480604491,
+    "DirectConnections": 21,
+    "IndirectConnections": 909,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Emil Fischer",
+    "ReachabilityScore": 0.007561260210035006,
+    "DirectConnections": 33,
+    "IndirectConnections": 527,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Arnold Sommerfeld",
+    "ReachabilityScore": 0.007493841566186958,
+    "DirectConnections": 23,
+    "IndirectConnections": 658,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Edward Teller",
+    "ReachabilityScore": 0.007493841566186958,
+    "DirectConnections": 20,
+    "IndirectConnections": 244,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Linus Pauling",
+    "ReachabilityScore": 0.0074086421811042575,
+    "DirectConnections": 20,
+    "IndirectConnections": 215,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Paul Krugman",
+    "ReachabilityScore": 0.007292882147024504,
+    "DirectConnections": 7,
+    "IndirectConnections": 497,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "August Kekulé",
+    "ReachabilityScore": 0.006407847635622887,
+    "DirectConnections": 11,
+    "IndirectConnections": 454,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Felix Bloch",
+    "ReachabilityScore": 0.0061313249177893285,
+    "DirectConnections": 12,
+    "IndirectConnections": 422,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Martin Karplus",
+    "ReachabilityScore": 0.006126021003500583,
+    "DirectConnections": 6,
+    "IndirectConnections": 243,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Jack Steinberger",
+    "ReachabilityScore": 0.006001000166694449,
+    "DirectConnections": 16,
+    "IndirectConnections": 909,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Julian Schwinger",
+    "ReachabilityScore": 0.006001000166694449,
+    "DirectConnections": 37,
+    "IndirectConnections": 1402,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Peter Debye",
+    "ReachabilityScore": 0.005916190710147598,
+    "DirectConnections": 46,
+    "IndirectConnections": 819,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "William Lipscomb",
+    "ReachabilityScore": 0.005834305717619603,
+    "DirectConnections": 23,
+    "IndirectConnections": 634,
+    "SpreadLevel": "LAN TỎA THẤP"
+  },
+  {
+    "Scientist": "Ernest Rutherford",
+    "ReachabilityScore": 0.005834305717619603,
+    "DirectConnections": 19,
+    "IndirectConnections": 301,
+    "SpreadLevel": "LAN TỎA THẤP"
+  }
+]

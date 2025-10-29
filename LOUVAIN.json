@@ -1,0 +1,122 @@
+[
+  {
+    "ResearchGroup": 382,
+    "GroupSize": 30,
+    "AvgMentorsPerScientist": 1.4666666666666666,
+    "TopMembers": [
+      "Dương Chấn Ninh",
+      "William Lipscomb",
+      "Lars Onsager",
+      "Wolfgang Ernst Pauli",
+      "Erwin Schrödinger"
+    ]
+  },
+  {
+    "ResearchGroup": 553,
+    "GroupSize": 22,
+    "AvgMentorsPerScientist": 1.9090909090909092,
+    "TopMembers": [
+      "Emil Fischer",
+      "Adolf von Baeyer",
+      "August Wilhelm von Hofmann",
+      "Fritz Haber",
+      "Philipp Lenard"
+    ]
+  },
+  {
+    "ResearchGroup": 489,
+    "GroupSize": 20,
+    "AvgMentorsPerScientist": 1.2,
+    "TopMembers": [
+      "Gilbert N. Lewis",
+      "Ilya Prigogine",
+      "Harold Urey",
+      "Stanley Miller",
+      "Ludwig Boltzmann"
+    ]
+  },
+  {
+    "ResearchGroup": 776,
+    "GroupSize": 18,
+    "AvgMentorsPerScientist": 0.3333333333333333,
+    "TopMembers": [
+      "Paul Samuelson",
+      "Wassily Leontief",
+      "Joseph Stiglitz",
+      "Robert C. Merton",
+      "Peter A. Diamond"
+    ]
+  },
+  {
+    "ResearchGroup": 495,
+    "GroupSize": 15,
+    "AvgMentorsPerScientist": 0.2,
+    "TopMembers": [
+      "Margaret Thatcher",
+      "Ronald Coase",
+      "Simon Kuznets",
+      "Gary Becker",
+      "Friedrich Hayek"
+    ]
+  },
+  {
+    "ResearchGroup": 71,
+    "GroupSize": 10,
+    "AvgMentorsPerScientist": 1.3,
+    "TopMembers": [
+      "William Lawrence Bragg",
+      "Clinton Davisson",
+      "William Shockley",
+      "Joseph John Thomson",
+      "Francis William Aston"
+    ]
+  },
+  {
+    "ResearchGroup": 246,
+    "GroupSize": 7,
+    "AvgMentorsPerScientist": 1.8571428571428572,
+    "TopMembers": [
+      "Ben Roy Mottelson",
+      "Walter Kohn",
+      "Martin Lewis Perl",
+      "Julian Schwinger",
+      "Roy J. Glauber"
+    ]
+  },
+  {
+    "ResearchGroup": 671,
+    "GroupSize": 7,
+    "AvgMentorsPerScientist": 1.2857142857142858,
+    "TopMembers": [
+      "Thomas Hunt Morgan",
+      "Edward B. Lewis",
+      "John Howard Northrop",
+      "Nettie Stevens",
+      "Alfred Sturtevant"
+    ]
+  },
+  {
+    "ResearchGroup": 309,
+    "GroupSize": 7,
+    "AvgMentorsPerScientist": 0.8571428571428571,
+    "TopMembers": [
+      "Marie Curie",
+      "André-Louis Debierne",
+      "Irène Joliot-Curie",
+      "Gabriel Lippmann",
+      "Paul Langevin"
+    ]
+  },
+  {
+    "ResearchGroup": 856,
+    "GroupSize": 7,
+    "AvgMentorsPerScientist": 0.2857142857142857,
+    "TopMembers": [
+      "Amartya Sen",
+      "Esther Duflo",
+      "Abhijit Banerjee",
+      "Eric Maskin",
+      "Tony Atkinson"
+    ]
+  }
+]

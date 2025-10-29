@@ -1,0 +1,92 @@
+[
+  {
+    "Scientist": "Arnold Sommerfeld",
+    "BridgeScore": 182.0,
+    "BridgeLevel": "CẦU NỐI QUAN TRỌNG",
+    "AcademicRelations": 8
+  },
+  {
+    "Scientist": "Werner Heisenberg",
+    "BridgeScore": 144.5,
+    "BridgeLevel": "CẦU NỐI QUAN TRỌNG",
+    "AcademicRelations": 8
+  },
+  {
+    "Scientist": "Edward Teller",
+    "BridgeScore": 112.0,
+    "BridgeLevel": "CẦU NỐI QUAN TRỌNG",
+    "AcademicRelations": 4
+  },
+  {
+    "Scientist": "Linus Pauling",
+    "BridgeScore": 74.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 7
+  },
+  {
+    "Scientist": "Adolf von Baeyer",
+    "BridgeScore": 70.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 12
+  },
+  {
+    "Scientist": "Robert Bunsen",
+    "BridgeScore": 67.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 6
+  },
+  {
+    "Scientist": "Friedrich Hund",
+    "BridgeScore": 64.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 3
+  },
+  {
+    "Scientist": "Max Born",
+    "BridgeScore": 58.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 13
+  },
+  {
+    "Scientist": "Peter Debye",
+    "BridgeScore": 58.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 10
+  },
+  {
+    "Scientist": "Emil Fischer",
+    "BridgeScore": 44.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 13
+  },
+  {
+    "Scientist": "William Lipscomb",
+    "BridgeScore": 41.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 11
+  },
+  {
+    "Scientist": "Heike Kamerlingh Onnes",
+    "BridgeScore": 32.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 15
+  },
+  {
+    "Scientist": "Hans Bethe",
+    "BridgeScore": 30.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 12
+  },
+  {
+    "Scientist": "Gilbert N. Lewis",
+    "BridgeScore": 26.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 6
+  },
+  {
+    "Scientist": "Fritz Haber",
+    "BridgeScore": 24.0,
+    "BridgeLevel": "CẦU NỐI TRUNG BÌNH",
+    "AcademicRelations": 3
+  }
+]
