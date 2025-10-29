@@ -1,0 +1,82 @@
+[
+  {
+    "Scientist": "Julian Schwinger",
+    "score": 0.44783391853642723
+  },
+  {
+    "Scientist": "Arnold Sommerfeld",
+    "score": 0.3684994069109286
+  },
+  {
+    "Scientist": "Werner Heisenberg",
+    "score": 0.2960931290085517
+  },
+  {
+    "Scientist": "Peter Debye",
+    "score": 0.2906434971499032
+  },
+  {
+    "Scientist": "Linus Pauling",
+    "score": 0.22965016472245894
+  },
+  {
+    "Scientist": "Hans Bethe",
+    "score": 0.21345263958303784
+  },
+  {
+    "Scientist": "Isidor Isaac Rabi",
+    "score": 0.21318159952733626
+  },
+  {
+    "Scientist": "Ben Roy Mottelson",
+    "score": 0.21318159952733626
+  },
+  {
+    "Scientist": "Roy J. Glauber",
+    "score": 0.21318159952733626
+  },
+  {
+    "Scientist": "Sheldon Lee Glashow",
+    "score": 0.21318159952733626
+  },
+  {
+    "Scientist": "Walter Kohn",
+    "score": 0.21318159952733626
+  },
+  {
+    "Scientist": "Edward Teller",
+    "score": 0.14066609937804103
+  },
+  {
+    "Scientist": "Felix Bloch",
+    "score": 0.13658637568960175
+  },
+  {
+    "Scientist": "William Lipscomb",
+    "score": 0.1337470046309672
+  },
+  {
+    "Scientist": "Lars Onsager",
+    "score": 0.13368328926075465
+  },
+  {
+    "Scientist": "Fritz Zwicky",
+    "score": 0.13368328926075465
+  },
+  {
+    "Scientist": "Thomas Hunt Morgan",
+    "score": 0.1116507154554586
+  },
+  {
+    "Scientist": "Martin Karplus",
+    "score": 0.10566802114112962
+  },
+  {
+    "Scientist": "David J. Thouless",
+    "score": 0.09822974196057219
+  },
+  {
+    "Scientist": "Alfred Sturtevant",
+    "score": 0.07297544939193332
+  }
+]
